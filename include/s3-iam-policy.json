@@ -14,8 +14,8 @@
 				"s3:GetBucketLocation"
 			],
 			"Resource": [
-				"arn:aws:s3:::marcl-fraud-data/*",
-				"arn:aws:s3:::marcl-fraud-data"
+				"arn:aws:s3:::alishergluebucket/*",
+				"arn:aws:s3:::alishergluebucket"
 			]
 		}
 	]
