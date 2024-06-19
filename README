@@ -4,3 +4,6 @@
 - Connection type: Airbyte
 - Host: airbyte-server
 - Port: 8001
+
+# airbyte-airflow-dbt-soda
+small sample project for airflow airbyte dbt soda
